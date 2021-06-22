@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.form-style {
+    box-shadow: 0px 2px 12px 1px;
+    padding: 20px;
+    background: #dcdcdc52;
+    border-radius: 4px;
+    
+}
+.show-area{
+    display: none;
+}
+
+.transtion-area h2,
+.depo-with h4 {
+    font-size: 20px;
+}
+.transtion-area h4 {
+    font-size: 30px;
+}
+
+.card-design {
+
+    background: #dcdcdc52;
+    border-radius: 4px;
+    box-shadow: 0px 2px 12px 1px;
+    padding: 30px;
+    
+}
